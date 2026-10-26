@@ -6,8 +6,8 @@ TI-84 Plus CE, written in C. All five nights, the 6th night and
 the custom night, with the original game's AI rules, color
 cameras, jumpscares and endings.
 
-***This game was with a lot of help by AI but the game was still tested and checked against the real game for as close to 100% of the mechanics of the Original FNAF 1 by a human*** 
-*a lot more work went into it then just a prompt*
+***This game was made with a lot of help by AI but the game was still tested and checked against the real game for as close to 100% of the mechanics of the Original FNAF 1 by a human*** 
+*a lot more work went into it than just a prompt*
 
 Version: 1.0
 Author:  Origflyguy
