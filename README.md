@@ -44,9 +44,6 @@ The 18 appvars:
   FNAFSC10                        title screen
   FNAFSC11 FNAFSC12 FNAFSC13      endings
 
-Updating from a test version? Delete FNAFVAR1, FNAFVAR3,
-FNAFVAR8 and FNAFSC7: they are no longer used.
-
 --------------------------------------------------------------
 CONTROLS
 --------------------------------------------------------------
